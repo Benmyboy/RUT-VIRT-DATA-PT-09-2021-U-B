@@ -4,7 +4,7 @@ y = 10
 # Checks if one value is equal to another
 if x == 1:
     print("x is equal to 1")
-
+print("hellow world")
 # Checks if one value is NOT equal to another
 if y != 1:
     print("y is not equal to 1")
